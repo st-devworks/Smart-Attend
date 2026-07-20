@@ -1,0 +1,30 @@
+# Virtual Environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Database
+database/*.db
+
+# Face Dataset
+dataset/
+
+# Trained Model
+trainer/
+
+# Exported Reports
+exports/
+
+# Environment files
+.env
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db

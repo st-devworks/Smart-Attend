@@ -1,0 +1,49 @@
+/* ==============================
+   SMARTATTEND THEME
+============================== */
+
+/* Main App */
+.stApp {
+    background-color: #f5f7fb;
+}
+
+/* Headings */
+h1, h2, h3 {
+    color: #1E3A8A;
+    font-weight: 700;
+}
+
+/* Sidebar */
+section[data-testid="stSidebar"] {
+    background-color: #0F172A;
+}
+
+section[data-testid="stSidebar"] * {
+    color: white;
+}
+
+/* Buttons */
+.stButton > button {
+    width: 100%;
+    background-color: #2563EB;
+    color: white;
+    border-radius: 10px;
+    border: none;
+    padding: 10px;
+    font-weight: bold;
+}
+
+.stButton > button:hover {
+    background-color: #1D4ED8;
+}
+
+/* Text Inputs */
+.stTextInput input {
+    border-radius: 8px;
+    border: 1px solid #d1d5db;
+}
+
+/* Success Messages */
+.stSuccess {
+    border-radius: 10px;
+}
