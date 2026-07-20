@@ -169,20 +169,75 @@ Generate and email attendance reports to students.
 
 # 📸 Screenshots
 
-> Screenshots will be added soon.
+## 🔐 Admin Login
 
-Suggested screenshots:
-
-- Login Page
-- Dashboard
-- Student Management
-- Face Registration
-- Attendance Scanner
-- Attendance History
-- Email Reports
+<p align="center">
+<img src="images/login.png" width="900">
+</p>
 
 ---
 
+## 📊 Dashboard
+
+<p align="center">
+<img src="images/Dashboard.png" width="900">
+</p>
+
+---
+
+## 👨 Add Student
+
+<p align="center">
+<img src="images/Students.png" width="900">
+</p>
+
+---
+
+## 📋 Student List
+
+<p align="center">
+<img src="images/Students_list.png" width="900">
+</p>
+
+---
+
+## 📷 Face Registration
+
+<p align="center">
+<img src="images/Register_face.png" width="900">
+</p>
+
+---
+
+## ✅ Attendance Scanner
+
+<p align="center">
+<img src="images/Attendance.png" width="900">
+</p>
+
+---
+
+## 📜 Attendance History
+
+<p align="center">
+<img src="images/history.png" width="900">
+</p>
+
+---
+
+## 📧 Email Reports Page
+
+<p align="center">
+<img src="images/email_reports.png" width="900">
+</p>
+
+---
+
+## 📩 Attendance Report Received by Student
+
+<p align="center">
+<img src="images/emails.png" width="900">
+</p>
 # 🔮 Future Enhancements
 
 - Multi Admin Support
