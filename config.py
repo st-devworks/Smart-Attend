@@ -29,8 +29,6 @@ CASCADE_PATH = "assets/haarcascade_frontalface_default.xml"
 # Export Folder
 EXPORT_FOLDER = "exports"
 
+# Email Configuration
 EMAIL = "your_email@gmail.com"
 EMAIL_PASSWORD = "your_gmail_app_password"
-
-ADMIN_USERNAME = "admin"
-ADMIN_PASSWORD = "your_admin_password"
